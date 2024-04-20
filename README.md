@@ -1,2 +1,15 @@
-# PI3EQX12908-arduino
-The PI3EQX12908 PCIe 3.0 redriver library is a software library that allows developers to easily access the I2C interfaces of the PI3EQX12908 PCIe 3.0 redriver chip. It provides a simple API for performing common I2C operations and is compatible with Arduino platform. The library includes example code to help developers get started quickly.
+# PI3EQX12908 PCIe 3.0 redriver library
+
+The PI3EQX12908 PCIe 3.0 redriver library is a software library that enables the I2C mode of the PI3EQX12908 PCIe 3.0 redriver chip. This library provides a convenient and efficient way to access the I2C interfaces of the chip, allowing developers to easily integrate the redriver into their systems.
+
+The library is designed to be easy to use and provides a simple, intuitive API for accessing the I2C interfaces of the PI3EQX12908. It includes a range of functions for performing common I2C operations, such as sending and receiving data, querying the status of the chip, and configuring the redriver's settings.
+
+With this library, developers can quickly and easily integrate the PI3EQX12908 PCIe 3.0 redriver into their systems, enabling them to take full advantage of the chip's capabilities. 
+
+## Key Features
+
+* Easy-to-use API for accessing the I2C interfaces of the PI3EQX12908
+* Support for common I2C operations, such as sending and receiving data, querying the status of the chip, and configuring the redriver's settings
+* Example codes to help you get started quickly
+
+## Getting Started
