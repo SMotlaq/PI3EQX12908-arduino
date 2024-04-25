@@ -51,22 +51,27 @@
 
 #define SDT_SHIFT 1
 
-#define FLAT_GAIN_M4db 0
-#define FLAT_GAIN_M2db 1
-#define FLAT_GAIN_00db 2
-#define FLAT_GAIN_P2db 3
+#define FLAT_GAIN_M4db 0  ///< Flat gain = -4db
+#define FLAT_GAIN_M2db 1  ///< Flat gain = -2db
+#define FLAT_GAIN_00db 2  ///< Flat gain =  0db
+#define FLAT_GAIN_P2db 3  ///< Flat gain = +2db
 
-#define SWING_900mVpp   0
-#define SWING_1000mVpp  1
+#define SWING_900mVpp   0 ///< Swing =  900 mVpp
+#define SWING_1000mVpp  1 ///< Swing = 1000 mVpp
 
-#define SDT_OFF_30_ON_130_mVpp   0
-#define SDT_OFF_50_ON_150_mVpp   1
-#define SDT_OFF_70_ON_170_mVpp   2
-#define SDT_OFF_110_ON_210_mVpp  3
+#define SDT_OFF_30_ON_130_mVpp   0  ///< Signal detect threshold =  30 mVpp for off and 130 mVpp for on
+#define SDT_OFF_50_ON_150_mVpp   1  ///< Signal detect threshold =  50 mVpp for off and 150 mVpp for on
+#define SDT_OFF_70_ON_170_mVpp   2  ///< Signal detect threshold =  70 mVpp for off and 170 mVpp for on
+#define SDT_OFF_110_ON_210_mVpp  3  ///< Signal detect threshold = 110 mVpp for off and 210 mVpp for on
 
-#define CFG_ON  0
-#define CFG_OFF 1
+#define CFG_ON  0 ///< Use this for power down state
+#define CFG_OFF 1 ///< Use this for power up state
 
+/**************************************************************************/
+/*! 
+    @brief  Class that stores state and functions for interacting with PI3EQX12908A2
+*/
+/**************************************************************************/
 class PI3EQX12908{
   public:
     init(uint8_t i2c_addr);
