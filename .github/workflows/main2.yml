@@ -4,9 +4,9 @@ name: Doxygen Action
 
 # Controls when the action will run. Triggers the workflow on release
 on:
-  workflow_dispatch
-#  release:
-#    types: [published]
+#  workflow_dispatch
+  release:
+    types: [published]
 
 
   
