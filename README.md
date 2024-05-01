@@ -14,4 +14,8 @@ With this library, developers can quickly and easily integrate the PI3EQX12908 P
 * Support for common I2C operations, such as sending and receiving data, querying the status of the chip, and configuring the redriver's settings
 * Example codes to help you get started quickly
 
+## Documentations
+
+The full documents are available [here](https://smotlaq.github.io/PI3EQX12908-arduino/)
+
 ## Getting Started
