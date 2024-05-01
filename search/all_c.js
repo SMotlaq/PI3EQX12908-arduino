@@ -58,7 +58,7 @@ var searchData=
   ['setsw_5fb1_55',['setSW_B1',['../a00014.html#ae2269426418fc924be93424ad961fcdd',1,'PI3EQX12908']]],
   ['setsw_5fb2_56',['setSW_B2',['../a00014.html#a8a4d16d2612da6a84146dc29cf0aba3e',1,'PI3EQX12908']]],
   ['setsw_5fb3_57',['setSW_B3',['../a00014.html#ac8df054cea5ec7c4263058f0cef9ec3b',1,'PI3EQX12908']]],
-  ['started_58',['Getting Started',['../a00015.html#autotoc_md2',1,'']]],
+  ['started_58',['Getting Started',['../a00015.html#autotoc_md3',1,'']]],
   ['swing_5f1000mvpp_59',['SWING_1000mVpp',['../a00005.html#ac363244feaccedce604c08bc92f2932f',1,'PI3EQX12908A2.h']]],
   ['swing_5f900mvpp_60',['SWING_900mVpp',['../a00005.html#a665097ee931867d3e8edb3f2b3f2f231',1,'PI3EQX12908A2.h']]]
 ];

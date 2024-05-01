@@ -48,5 +48,5 @@ var searchData=
   ['getsw_5fb1_45',['getSW_B1',['../a00014.html#a97472e0fefb5844b335757b7ba0fd9cb',1,'PI3EQX12908']]],
   ['getsw_5fb2_46',['getSW_B2',['../a00014.html#a8c2d94732042422c87fa7e5f4868805f',1,'PI3EQX12908']]],
   ['getsw_5fb3_47',['getSW_B3',['../a00014.html#a0e9faaad2dd0e1b550f09ba32eb9e4c6',1,'PI3EQX12908']]],
-  ['getting_20started_48',['Getting Started',['../a00015.html#autotoc_md2',1,'']]]
+  ['getting_20started_48',['Getting Started',['../a00015.html#autotoc_md3',1,'']]]
 ];

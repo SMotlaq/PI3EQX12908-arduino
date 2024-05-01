@@ -28,7 +28,8 @@ var NAVTREE =
     [ "PI3EQX12908 PCIe 3.0 redriver library", "index.html", "index" ],
     [ "PI3EQX12908 PCIe 3.0 redriver library", "a00015.html", [
       [ "Key Features", "a00015.html#autotoc_md1", null ],
-      [ "Getting Started", "a00015.html#autotoc_md2", null ]
+      [ "Documentations", "a00015.html#autotoc_md2", null ],
+      [ "Getting Started", "a00015.html#autotoc_md3", null ]
     ] ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
