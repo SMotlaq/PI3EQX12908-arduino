@@ -1,3 +1,5 @@
+[![Doxygen Action](https://github.com/SMotlaq/PI3EQX12908-arduino/actions/workflows/main2.yml/badge.svg)](https://github.com/SMotlaq/PI3EQX12908-arduino/actions/workflows/main2.yml)
+
 # PI3EQX12908 PCIe 3.0 redriver library
 
 The PI3EQX12908A2 is an 8-channel PCIe Gen 3, 10GbE, SAS3, ReDriver™. The device provides programmable linear equalization, output swing and gain, by either pin strapping option or I2C Control, to optimize performance over a variety of physical mediums by reducing Inter-symbol interference. ([Click for full description](https://www.diodes.com/part/view/PI3EQX12908A2))
