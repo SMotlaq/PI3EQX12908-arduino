@@ -20,4 +20,11 @@ With this library, developers can quickly and easily integrate the PI3EQX12908 P
 
 The full documents are available [here](https://smotlaq.github.io/PI3EQX12908-arduino/)
 
-## Getting Started
+## Donate
+Is it helpfull?
+
+<p align="left">
+  <a href="http://smotlaq.ir/LQgQF">
+  <img src="https://raw.githubusercontent.com/SMotlaq/LoRa/master/bmc.png" width="200" alt="Buy me a Coffee"/>
+  </a>
+</p>
